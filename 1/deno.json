@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "file-server": "deno run -ENR jsr:@std/http/file-server"
+  }
+}

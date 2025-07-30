@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "file-server": "deno run -ENR jsr:@std/http/file-server",
+    "bundle-watch": "deno bundle --platform=browser --output app.js --watch --unstable-raw-imports app.jsx"
+  }
+}
