@@ -1,6 +1,7 @@
 # Deno bundle examples
 
-These examples accompany this YouTube video.
+These examples accompany [this YouTube video](https://youtu.be/kGWboJ5mpp0)
+about `deno bundle`.
 
 - [1: simple HTML website](https://github.com/lambtron/deno-bundle-examples/tree/main/1)
 - [2: HTML + simple JavaScript file](https://github.com/lambtron/deno-bundle-examples/tree/main/2)
